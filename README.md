@@ -19,7 +19,7 @@ The Enhanced YouTube Audio Visualizer is a powerful user script that revolutioni
 To install the Enhanced YouTube Audio Visualizer, follow these simple steps:
 
 1. Install a user script manager extension such as Tampermonkey or Greasemonkey in your browser.
-2. Click on the following link to install the user script: [Download Enhanced YouTube Audio Visualizer](https://github.com/yourusername/enhanced-youtube-audio-visualizer/raw/main/enhanced-youtube-audio-visualizer.user.js)
+2. Click on the following link to install the user script: [Download Enhanced YouTube Audio Visualizer](https://github.com/xettrialeen/Enhanced-YouTube-Audio-Visualizer---/blob/main/script.js)
 3. The user script manager will prompt you to install the script. Click "Install" to proceed.
 4. Once installed, the audio visualizer will automatically be added to YouTube video pages.
 
@@ -48,8 +48,7 @@ Your contributions help keep the project alive and enable the development of new
 If you encounter any issues, have suggestions, or want to provide feedback, please don't hesitate to reach out:
 
 - 🐛 Report bugs or suggest improvements on the [GitHub Issues](https://github.com/yourusername/enhanced-youtube-audio-visualizer/issues) page.
-- 💬 Join our [Discord community](https://discord.gg/your-discord-invite) to connect with other users and get support.
-- 📧 Email us at xettrisomeman@gmail.com for any inquiries or collaborations.
+- 📧 Email us at aleenbhandari2@gmail.com for any inquiries or collaborations.
 
 We value your input and strive to make the Enhanced YouTube Audio Visualizer the best it can be.
 
