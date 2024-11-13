@@ -2,6 +2,8 @@
 
 The Enhanced YouTube Audio Visualizer is a powerful user script that revolutionizes your audio-visual experience on YouTube. It offers an advanced sound visualizer, EQ presets, Dolby surround effect, and a sleek, minimalist dark UI. Elevate your YouTube watching experience with captivating visuals and immersive audio.
 
+![Alt text](https://raw.githubusercontent.com/xettrialeen/Enhanced-YouTube-Audio-Visualizer---/refs/heads/main/preview.png)
+
 ## Features 🌟
 
 - 🌈 Mesmerizing audio visualizer with multiple visualization styles
