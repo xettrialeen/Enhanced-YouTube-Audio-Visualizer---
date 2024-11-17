@@ -13,8 +13,8 @@ Kadaa Beat transforms your YouTube experience through advanced audio processing,
 
 ## Installation Guide
 
-<video src="https://github.com/xettrialeen/Kadaa-Beat/blob/main/installation.mp4" controls="controls" style="max-width: 730px;">
-</video>
+
+[Video_title](https://github.com/xettrialeen/Kadaa-Beat/blob/main/installation.mp4)
 
 ### Prerequisites
 - Google Chrome (Version 95 or higher)
