@@ -14,41 +14,7 @@ https://github.com/user-attachments/assets/728dc7ba-e2e3-466b-a29d-365b84c108b8
 
 ## 🌟 Key Features
 
-<<<<<<< HEAD
 ### 🎧 Audio Enhancement Suite
-=======
-
-## Installation Guide
-
-https://github.com/user-attachments/assets/728dc7ba-e2e3-466b-a29d-365b84c108b8
-
-
-### Prerequisites
-
-- Google Chrome (Version 95 or higher)
-- Operating System: Windows 7/10/11, macOS 10.14+, or Linux
-- Minimum 4GB RAM
-- Hardware acceleration enabled
-- Display resolution: 1280x720 or higher
-
-### Installation Steps
-1. **Download the Extension**
-   - Download the latest `kadaaBeat.zip` release
-   - Extract the contents to your preferred location
-
-2. **Enable Chrome Developer Mode**
-   - Open Chrome and go to `chrome://extensions/`
-   - Enable the "Developer Mode" toggle in the top right corner
-
-3. **Load the Extension**
-   - Click "Load Unpacked"
-   - Navigate to and select the extracted Kadaa Beat directory
-   - Verify that the extension appears in your Chrome extensions list
-
-## Features
-
-### Audio Enhancement
->>>>>>> 00c088a2c9cf3860a7c8cbb655ee364bbc627e2c
 - Professional 5-band parametric equalizer
 - 10+ sophisticated visualization modes
 - Dolby-simulation surround sound
