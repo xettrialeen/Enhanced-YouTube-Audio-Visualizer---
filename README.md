@@ -8,7 +8,12 @@ A sophisticated audio-visual enhancement extension for YouTube that provides pro
 
 Kadaa Beat transforms your YouTube experience through advanced audio processing, real-time visualizations, and professional video enhancement capabilities. It features a 5-band parametric equalizer, multiple visualization modes, and comprehensive video processing options, all while maintaining efficient performance.
 
+
+
+
 ## Installation Guide
+
+https://github.com/xettrialeen/Kadaa-Beat/blob/main/installation.mp4
 
 ### Prerequisites
 - Google Chrome (Version 95 or higher)
