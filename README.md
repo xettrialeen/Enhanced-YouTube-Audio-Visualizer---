@@ -13,10 +13,11 @@ Kadaa Beat transforms your YouTube experience through advanced audio processing,
 
 ## Installation Guide
 
+https://github.com/user-attachments/assets/728dc7ba-e2e3-466b-a29d-365b84c108b8
 
-[Video_title](https://github.com/xettrialeen/Kadaa-Beat/blob/main/installation.mp4)
 
 ### Prerequisites
+
 - Google Chrome (Version 95 or higher)
 - Operating System: Windows 7/10/11, macOS 10.14+, or Linux
 - Minimum 4GB RAM
