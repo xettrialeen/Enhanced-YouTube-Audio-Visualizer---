@@ -151,8 +151,7 @@ All rights reserved.
 
 ### Lead Developer
 Xettri Aleen
-Professional Audio-Visual Developer
-Specializing in Web Audio Applications
+
 
 ### Contact Information
 - Professional Email: aleenbhandari2@gmail.com
